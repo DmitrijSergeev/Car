@@ -1,0 +1,9 @@
+input{
+    width: 250px;
+}
+.hide{
+    display: none;    
+}
+label{
+    font-weight: bold;
+}
