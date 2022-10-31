@@ -13,7 +13,7 @@ function carStartListener() {
         statusLabel.value = status;
     }
     function devLog(message) {
-        // console.log(message);
+        //console.log(message);
     }
     function carStarted() {
         showStatus('The car have started');
