@@ -47,7 +47,7 @@ function carStartListener() {
             gearBoxValueLabel.innerHTML = "N";
             clearInterval(gearBoxInterval);
         }
-        setTimeout(engineCrash, 3000);
+        setTimeout(engineCrash, 4000);
     }
 }
 
